@@ -12,4 +12,10 @@ Filters: are essentially an image kernel, which is a small matrix applied to an 
 
 ]
 
-![Spark](https://github.com/prashantfb65/computer_vision/blob/implementation_zero/images/filter.png?raw=true)
+![Spark filter 1](https://github.com/prashantfb65/computer_vision/blob/implementation_zero/images/filter.png?raw=true)
+
+![Spark filter 2](https://github.com/prashantfb65/computer_vision/blob/implementation_zero/images/filter_2.png?raw=true)
+
+![Spark filter 3](https://github.com/prashantfb65/computer_vision/blob/implementation_zero/images/filter_3.png?raw=true)
+
+![Spark filter 4](https://github.com/prashantfb65/computer_vision/blob/implementation_zero/images/filter_4.png?raw=true)
