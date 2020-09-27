@@ -8,4 +8,4 @@ Filters: are essentially an image kernel, which is a small matrix applied to an 
     0.0625 0.125 0.0625
 ]
 
-![Spark](https://github.com/prashantfb65/computer-vision/blob/implementation_zero/images/filter.png?raw=true)
+![Spark](https://github.com/prashantfb65/computer_vision/blob/implementation_zero/images/filter.png?raw=true)
