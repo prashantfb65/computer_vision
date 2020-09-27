@@ -1,5 +1,7 @@
 # Computer vision
 
+![CNN](https://github.com/prashantfb65/computer_vision/blob/implementation_zero/images/cnn.png?raw=true)
+
 ## Filters
 Filters: are essentially an image kernel, which is a small matrix applied to an entire image. Certail popular filters are well known, for example a blur filter:
 
@@ -38,3 +40,10 @@ Even with the local connectivity, when dealing with color images and possibly 10
 Pooling layers accept convolutional layerrs as input.
 
 ![Pooling](https://github.com/prashantfb65/computer_vision/blob/implementation_zero/images/pooling.png?raw=true)
+
+![Max Pooling](https://github.com/prashantfb65/computer_vision/blob/implementation_zero/images/max_pooling.png?raw=true)
+
+The other pooling techniques which could be used to decrease the size of the parameters is average pooling.
+The pooling layer will end up removing a lot information, even if a small pooling "kernel" of 2 by 2 with a stride of 2 will remove 75% of the input data.
+
+Common technique deployed with CNN is called "Dropout". Dropout can be thought of as a form of regularization too help prevent overfitting. During traiing, units are randomly dropped, along with their connections.
